@@ -1,4 +1,4 @@
-
+// Curso LauchBase - Desafio 1-2 (Objetos e vetores)
 
 const programador =
     {        
